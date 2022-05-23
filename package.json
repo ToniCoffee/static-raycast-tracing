@@ -1,0 +1,20 @@
+{
+  "name": "static-raycast-tracing",
+  "version": "1.0.0",
+  "description": "Raycast tracing made with html, css, and javascript",
+	"homepage": "https://tonicoffee.github.io/static-raycast-tracing/",
+	"private": true,
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raycast",
+    "raycast tracing",
+    "game",
+    "html",
+    "css",
+    "javascript"
+  ],
+  "author": "ToniCoffee"
+}
