@@ -1,5 +1,5 @@
-import { imgRaw } from '../raycasting/js/rawImageData.js';
-import { coinSprite } from '../raycasting/js/rawSprite.js';
+import { imgRaw } from '../rawImageData.js';
+import { coinSprite } from '../rawSprite.js';
 import { degreesToRadians, createBitMap, renderSprites } from '../utils/utils.js';
 import { Keyboard } from '../utils/keyboard.js';
 import { Canvas, Context } from '../utils/canvas.js';
