@@ -1,4 +1,4 @@
-import { canvasReScale } from '../../utils/utils.js';
+import { canvasReScale } from './utils.js';
 
 export class Canvas {
   #canvas = null;
